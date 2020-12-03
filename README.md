@@ -18,7 +18,9 @@ Ruby on Rails, also known as Rails, is a server-side (also known as backend) web
 
 #### What is _React on Rails_?
 
-Since the release of Rails 6 in August 2019, Webpacker (a JavaScript compiler) is built into Rails by default. This has made it easier for React and Rails to be integrated together, giving rise to a full-stack framework known unofficially as React on Rails. Given the widespread popularity of React, we have decided to include it in this winter assignment.
+Since the release of Rails 6 in August 2019, Webpacker (a JavaScript compiler) is built into Rails by default. This has made it easier for React and Rails to be integrated together, giving rise to a full-stack framework known unofficially as React on Rails. Given the widespread popularity of React, we have decided to include it in this Winter Assignment.
+
+> **Note**: This is only one of the many ways to integrate React with Rails! Do check out the Section 4.3 in the assignment document on RESTful APIs for another popular way to do so. This guide will, however, cover React on Rails.
 
 ## Installation and Setup
 
