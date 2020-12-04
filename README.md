@@ -154,7 +154,7 @@ Now that you have a basic Rails setup, the rest is up to your imagination and a 
 
 ### Credit
 
-- This guide was first created by [Tiu Wee Han](https://github.com/tiuweehan), CVWO Chairman for AY2019/2020
+- This guide was first created by [Tiu Wee Han](https://github.com/tiuweehan), CVWO President for AY2019/2020
 - [GoRails](https://gorails.com/setup)
 - [Official documentation for the React Rails gem](https://github.com/reactjs/react-rails)
 - [Getting started with Rails 6 and React by Spike Burton](https://medium.com/swlh/getting-started-with-rails-6-and-react-afac8255aecd)
