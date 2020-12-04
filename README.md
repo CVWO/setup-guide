@@ -2,7 +2,7 @@
 
 # React on Rails Installation Guide
 
-Guide for installing React on Rails 6 for the CVWO 2020/2021 Winter Assignment.
+Guide for installing React on Rails 6 for the CVWO 2020/2021 Assignment.
 
 If you face any issues during installation, please feel free to browse or post on [the forums](https://github.com/CVWO/installation-guide/issues) as other applicants might have the same problems.
 
@@ -18,9 +18,9 @@ Ruby on Rails, also known as Rails, is a server-side (also known as backend) web
 
 #### What is _React on Rails_?
 
-Since the release of Rails 6 in August 2019, Webpacker (a JavaScript compiler) is built into Rails by default. This has made it easier for React and Rails to be integrated together, giving rise to a full-stack framework known unofficially as React on Rails. Given the widespread popularity of React, we have decided to include it in this Winter Assignment.
+Since the release of Rails 6 in August 2019, Webpacker (a JavaScript compiler) is built into Rails by default. This has made it easier for React and Rails to be integrated together, giving rise to a full-stack framework known unofficially as React on Rails. Given the widespread popularity of React, we have decided to include it in this assignment.
 
-> **Note**: This is only one of the many ways to integrate React with Rails! Do check out **Section 4.3 - RESTful APIs** of the Winter Assignment for another popular way to do so. This guide will only cover React on Rails.
+> **Note**: This is only one of the many ways to integrate React with Rails! Do check out **Section 4.3 - RESTful APIs** of the assignment PDF for another popular way to do so. This guide will only cover React on Rails.
 
 ## Installation and Setup
 
