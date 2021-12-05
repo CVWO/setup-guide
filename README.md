@@ -2,7 +2,7 @@
 
 # React on Rails Installation Guide
 
-Guide for installing React on Rails 6 for the CVWO 2020/2021 Assignment.
+Guide for installing React on Rails 6 for the CVWO 2021/2022 Assignment.
 
 If you face any issues during installation, please feel free to browse or post on [the forums](https://github.com/CVWO/installation-guide/issues) as other applicants might have the same problems.
 
@@ -20,7 +20,7 @@ Ruby on Rails, also known as Rails, is a server-side (also known as backend) web
 
 Since the release of Rails 6 in August 2019, Webpacker (a JavaScript compiler) is built into Rails by default. This has made it easier for React and Rails to be integrated together, giving rise to a full-stack framework known unofficially as React on Rails. Given the widespread popularity of React, we have decided to include it in this assignment.
 
-> **Note**: This is only one of the many ways to integrate React with Rails! Do check out **Section 4.3 - RESTful APIs** of the assignment PDF for another popular way to do so. This guide will only cover React on Rails.
+> **Note**: This is only one of the many ways to integrate React with Rails! Do check out **Section 3.1 - RESTful APIs** of the assignment PDF for another popular way to do so. This guide will only cover React on Rails.
 
 ## Installation and Setup
 
@@ -148,7 +148,7 @@ If you have made it this far, you are already halfway there!
 
 Do note that the method above (embedding the React component directly into the view) is only one of many ways to integrate React with rails, though it is the simplest and most beginner friendly.
 
-The more common and cleaner way to do it (and also how we do it in CVWO) is to use Rails as a REST API endpoint, with React reading the data from the endpoint. [This guide](https://dev.to/able/building-and-consuming-a-json-api-with-rails-and-react-42p6) provides a tutorial on a basic setup with such a design.
+The more common and cleaner way to do it (and also how we do it in CVWO) is to use Rails as a REST API endpoint, with React reading the data from the endpoint. [This guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend) provides a tutorial on a basic setup with such a design.
 
 Now that you have a basic Rails setup, the rest is up to your imagination and a bit of wishful thinking. All the best for the rest of your assignment :)
 
@@ -159,4 +159,4 @@ Now that you have a basic Rails setup, the rest is up to your imagination and a 
 - [Official documentation for the React Rails gem](https://github.com/reactjs/react-rails)
 - [Getting started with Rails 6 and React by Spike Burton](https://medium.com/swlh/getting-started-with-rails-6-and-react-afac8255aecd)
 
-© CVWO 2020/2021
+© CVWO 2021/2022
